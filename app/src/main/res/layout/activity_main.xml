@@ -117,6 +117,19 @@
             android:layout_marginTop="@dimen/MarginTop">
         </TextView>
     </RelativeLayout>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/White">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GG"
+            android:textSize="@dimen/FontSize"
+            android:textColor="@color/Blue"
+    </androidx.appcompat.widget.LinearLayoutCompat>
 
 
 </androidx.appcompat.widget.LinearLayoutCompat>
