@@ -128,7 +128,8 @@
             android:layout_height="wrap_content"
             android:text="GG"
             android:textSize="@dimen/FontSize"
-            android:textColor="@color/Blue"
+            android:textColor="@color/Blue">
+        </TextView>
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 
